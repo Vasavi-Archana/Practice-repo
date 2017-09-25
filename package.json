@@ -1,0 +1,24 @@
+{
+  "name": "practice-project",
+  "version": "1.0.0",
+  "description": "Basic project to learn node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasavi-Archana/Practice-repo.git"
+  },
+  "author": "Archana Ramini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasavi-Archana/Practice-repo/issues"
+  },
+  "homepage": "https://github.com/Vasavi-Archana/Practice-repo#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.5",
+    "jshint": "^2.9.5"
+  }
+}
